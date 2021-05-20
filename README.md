@@ -1,2 +1,3 @@
-# FEtask4
-Basic javascript algorithms
+A very simple live preview of F to C conersion.
+
+
